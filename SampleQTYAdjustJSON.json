@@ -1,0 +1,5 @@
+{
+  "name": "item name",
+  "quantity": "+2/-2 (QTY to be added to (or subtracted from) the item)",
+  "auth_token": "Auth token"
+}
